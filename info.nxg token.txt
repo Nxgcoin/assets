@@ -1,0 +1,10 @@
+    "name": "NXG Token",
+    "website": "https://nxgcoin.io/",
+    "description": "NXG is a stablecoin issued by NXG in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0xb2fee738d28cb3095ae7ad3aea2b4a53683afb4b#balances",
+    "type": "BEP20",
+    "symbol": "NXG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB2feE738D28cb3095AE7ad3AeA2b4a53683aFb4B"
+}
